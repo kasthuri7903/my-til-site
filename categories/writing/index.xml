@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on Kasthuri Rengarajan</title>
-    <link>http://localhost:1313/categories/writing/</link>
+    <link>https://example.org/categories/writing/</link>
     <description>Recent content in Writing on Kasthuri Rengarajan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,12 +10,12 @@
     <webMaster>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</webMaster>
     <copyright>Kasthuri</copyright>
     <lastBuildDate>Sat, 06 Sep 2025 20:12:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>They Who? It’s You</title>
-      <link>http://localhost:1313/notes/poem/</link>
+      <link>https://example.org/notes/poem/</link>
       <pubDate>Sat, 06 Sep 2025 20:12:03 +0530</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>http://localhost:1313/notes/poem/</guid>
+      <guid>https://example.org/notes/poem/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is my first published poem — a reflection on fear, regret, and finding guidance within ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s ok to have fear;&#xA;It’s ok to not feel ok.&#xA;We’ve got big dreams hidden&#xA;in the clouds of uncertainty.&lt;/p&gt;&#xA;&lt;p&gt;But why do our dreams turn into fear?&#xA;Because we are in a rush.&#xA;Don’t chase—ATTRACT, they say.&lt;/p&gt;&#xA;&lt;p&gt;Grief harms too.&#xA;You cannot run away from it.&#xA;Feel it,&#xA;but don’t drown in it, they say.&lt;/p&gt;</description>
     </item>
   </channel>
