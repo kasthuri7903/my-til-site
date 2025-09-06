@@ -48,4 +48,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://kasthuri.github.io/my-til-site/sitemap.xml
+Sitemap: https://kasthuri7903.github.io/my-til-site/sitemap.xml
