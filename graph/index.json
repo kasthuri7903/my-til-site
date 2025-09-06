@@ -1,31 +1,31 @@
 {
   "graph": {
-    "/notes/note1/": {
+    "/my-til-site/notes/note1/": {
       "in": [],
       "out": []
     },
-    "/notes/poem/": {
+    "/my-til-site/notes/poem/": {
       "in": [],
       "out": []
     },
-    "/posts/my-first-post/": {
+    "/my-til-site/posts/my-first-post/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
-    "/notes/note1/": {
-      "permalink": "/notes/note1/",
+    "/my-til-site/notes/note1/": {
+      "permalink": "/my-til-site/notes/note1/",
       "section": "notes",
       "title": "Note"
     },
-    "/notes/poem/": {
-      "permalink": "/notes/poem/",
+    "/my-til-site/notes/poem/": {
+      "permalink": "/my-til-site/notes/poem/",
       "section": "notes",
       "title": "They Who? It’s You"
     },
-    "/posts/my-first-post/": {
-      "permalink": "/posts/my-first-post/",
+    "/my-til-site/posts/my-first-post/": {
+      "permalink": "/my-til-site/posts/my-first-post/",
       "section": "posts",
       "title": "My First Post"
     }

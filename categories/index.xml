@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kasthuri Rengarajan</title>
-    <link>https://example.org/categories/</link>
+    <link>https://kasthuri.github.io/my-til-site/categories/</link>
     <description>Recent content in Categories on Kasthuri Rengarajan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,12 +10,12 @@
     <webMaster>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</webMaster>
     <copyright>Kasthuri</copyright>
     <lastBuildDate>Sat, 06 Sep 2025 20:12:03 +0530</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kasthuri.github.io/my-til-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing</title>
-      <link>https://example.org/categories/writing/</link>
+      <link>https://kasthuri.github.io/my-til-site/categories/writing/</link>
       <pubDate>Sat, 06 Sep 2025 20:12:03 +0530</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>https://example.org/categories/writing/</guid>
+      <guid>https://kasthuri.github.io/my-til-site/categories/writing/</guid>
       <description></description>
     </item>
   </channel>
