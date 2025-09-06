@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gradient Guess!!... on Kasthuri Rengarajan</title>
-    <link>https://kasthuri7903.github.io/my-til-site/</link>
+    <link>http://localhost:1313/my-til-site/</link>
     <description>Recent content in Gradient Guess!!... on Kasthuri Rengarajan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,40 +10,40 @@
     <webMaster>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</webMaster>
     <copyright>Kasthuri</copyright>
     <lastBuildDate>Sat, 06 Sep 2025 20:12:03 +0530</lastBuildDate>
-    <atom:link href="https://kasthuri7903.github.io/my-til-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-til-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>They Who? It’s You</title>
-      <link>https://kasthuri7903.github.io/my-til-site/notes/poem/</link>
+      <link>http://localhost:1313/my-til-site/notes/poem/</link>
       <pubDate>Sat, 06 Sep 2025 20:12:03 +0530</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>https://kasthuri7903.github.io/my-til-site/notes/poem/</guid>
+      <guid>http://localhost:1313/my-til-site/notes/poem/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is my first published poem — a reflection on fear, regret, and finding guidance within ourselves.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s ok to have fear;&#xA;It’s ok to not feel ok.&#xA;We’ve got big dreams hidden&#xA;in the clouds of uncertainty.&lt;/p&gt;&#xA;&lt;p&gt;But why do our dreams turn into fear?&#xA;Because we are in a rush.&#xA;Don’t chase—ATTRACT, they say.&lt;/p&gt;&#xA;&lt;p&gt;Grief harms too.&#xA;You cannot run away from it.&#xA;Feel it,&#xA;but don’t drown in it, they say.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Note</title>
-      <link>https://kasthuri7903.github.io/my-til-site/notes/note1/</link>
+      <link>http://localhost:1313/my-til-site/notes/note1/</link>
       <pubDate>Sat, 06 Sep 2025 13:29:51 +0530</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>https://kasthuri7903.github.io/my-til-site/notes/note1/</guid>
+      <guid>http://localhost:1313/my-til-site/notes/note1/</guid>
       <description>&lt;p&gt;This is my first Note.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://kasthuri7903.github.io/my-til-site/about/</link>
+      <link>http://localhost:1313/my-til-site/about/</link>
       <pubDate>Sat, 06 Sep 2025 13:27:32 +0530</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>https://kasthuri7903.github.io/my-til-site/about/</guid>
+      <guid>http://localhost:1313/my-til-site/about/</guid>
       <description>&lt;p&gt;Hi&amp;rsquo; I am Kasthuri Rengarajan. Currently working in Accenture as ASE. I have started to work on AI/Ml related stuff. I share every information / research review / other stuff I do.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://kasthuri7903.github.io/my-til-site/posts/my-first-post/</link>
+      <link>http://localhost:1313/my-til-site/posts/my-first-post/</link>
       <pubDate>Sat, 06 Sep 2025 12:56:52 +0530</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>https://kasthuri7903.github.io/my-til-site/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/my-til-site/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is my first Post. Trail&#xA;checking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Content Graph</title>
-      <link>https://kasthuri7903.github.io/my-til-site/graph/</link>
+      <link>http://localhost:1313/my-til-site/graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>kasthuri.r7903@gmail.com (Kasthuri Rengarajan)</author>
-      <guid>https://kasthuri7903.github.io/my-til-site/graph/</guid>
+      <guid>http://localhost:1313/my-til-site/graph/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kasthuri7903.github.io/my-til-site/categories/</loc>
+    <loc>http://localhost:1313/my-til-site/categories/</loc>
     <lastmod>2025-09-06T20:12:03+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/</loc>
+    <loc>http://localhost:1313/my-til-site/</loc>
     <lastmod>2025-09-06T20:12:03+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/notes/</loc>
+    <loc>http://localhost:1313/my-til-site/notes/</loc>
     <lastmod>2025-09-06T20:12:03+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/notes/poem/</loc>
+    <loc>http://localhost:1313/my-til-site/notes/poem/</loc>
     <lastmod>2025-09-06T20:12:03+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/categories/writing/</loc>
+    <loc>http://localhost:1313/my-til-site/categories/writing/</loc>
     <lastmod>2025-09-06T20:12:03+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/notes/note1/</loc>
+    <loc>http://localhost:1313/my-til-site/notes/note1/</loc>
     <lastmod>2025-09-06T13:29:51+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/about/</loc>
+    <loc>http://localhost:1313/my-til-site/about/</loc>
     <lastmod>2025-09-06T13:27:32+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/my-til-site/posts/my-first-post/</loc>
     <lastmod>2025-09-06T12:56:52+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/posts/</loc>
+    <loc>http://localhost:1313/my-til-site/posts/</loc>
     <lastmod>2025-09-06T12:56:52+05:30</lastmod>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/graph/</loc>
+    <loc>http://localhost:1313/my-til-site/graph/</loc>
   </url><url>
-    <loc>https://kasthuri7903.github.io/my-til-site/tags/</loc>
+    <loc>http://localhost:1313/my-til-site/tags/</loc>
   </url>
 </urlset>
